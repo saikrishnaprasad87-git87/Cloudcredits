@@ -1,4 +1,5 @@
-package Testing1;
+package com.project.library;
+
 
 import java.util.Scanner;
 
